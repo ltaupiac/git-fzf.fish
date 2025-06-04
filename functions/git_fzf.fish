@@ -6,7 +6,7 @@
 #
 # 2025-06-02:
 # - Update bind to use new modifiers/modif key names
-# - Move to functions to use autoload
+# - Move to functions
 # - Autorun bind when shell is interractive to avoid config.fish modification
 
 # Deciphered from fzf-file-widget. Somewhat unclear why it doesn't exist already!
